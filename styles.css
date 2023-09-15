@@ -1,0 +1,16 @@
+img {
+    max-width: 20%;
+    height: auto;
+    transition: opacity 0.5s;
+    opacity: 0;
+}
+.loading {
+    display: none;
+}
+.button-container {
+    display: flex;
+    align-items: center;
+}
+.button-container button {
+    margin-right: 10px;
+}
